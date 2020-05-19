@@ -136,6 +136,5 @@
 
 
 # 통신 API 문서
-http://52.78.222.197:8080/swagger-ui.html#/
 
 https://github.com/team-travely/travely-server/wiki
